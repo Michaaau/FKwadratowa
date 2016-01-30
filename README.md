@@ -1,0 +1,2 @@
+# FKwadratowa
+Funkcja kwadratowa + testy
